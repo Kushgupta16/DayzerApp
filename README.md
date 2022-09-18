@@ -15,7 +15,7 @@ By Kush Gupta
 # Screenshots
 
 
-<img width="269" alt="IMG_20220918_143516" src="https://user-images.githubusercontent.com/97805045/190897829-f248e6ff-eac5-4cd5-9d19-5e9e2da4c9d3.jpg">   <img width="269" alt="IMG_20220918_154832" src="https://user-images.githubusercontent.com/97805045/190897646-5549e0a4-f597-4fe9-955d-0d711c219a8f.jpg"> <img Width="269" alt="IMG_20220918_155057" src="https://user-images.githubusercontent.com/97805045/190897654-5a0a2a5c-1012-4166-ada7-9419159721c5.jpg">
+<img width="269" alt="IMG_20220918_143516" src="https://user-images.githubusercontent.com/97805045/190897829-f248e6ff-eac5-4cd5-9d19-5e9e2da4c9d3.jpg"> <img width="269" alt="IMG_20220918_154832" src="https://user-images.githubusercontent.com/97805045/190897646-5549e0a4-f597-4fe9-955d-0d711c219a8f.jpg"> <img Width="269" alt="IMG_20220918_155057" src="https://user-images.githubusercontent.com/97805045/190897654-5a0a2a5c-1012-4166-ada7-9419159721c5.jpg">
 
 
 
