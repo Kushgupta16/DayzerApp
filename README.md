@@ -10,7 +10,7 @@ made with ❤️
 
 
 
-
+<br/><br/>
 
 
 
@@ -21,7 +21,7 @@ made with ❤️
 
 
 
-
+<br/><br/>
 
 
 
@@ -32,7 +32,7 @@ made with ❤️
 
 The app is developed using the awesome Flutter framework developed by Google.
 
-
+<br/><br/>
 
 # Implemented With
 
@@ -42,6 +42,8 @@ The app is developed using the awesome Flutter framework developed by Google.
 
 ● Android Version - 10
 
+
+<br/><br/>
 
 # What I Used:
 
