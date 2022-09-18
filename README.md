@@ -4,7 +4,7 @@
 
 made with ❤️
 
-By Kush Gupta
+### By Kush Gupta
 
 
 
@@ -34,24 +34,24 @@ The app is developed using the awesome Flutter framework developed by Google.
 
 # Implemented With
 
-Phone- Redmi Note 7 pro
+● Phone- Redmi Note 7 pro
 
-Display - 6.3"
+● Display - 6.3"
 
-Android Version - 10
+● Android Version - 10
 
 
 # What I Used:
 
-Flutter Framework          <img width="25" alt="file_type_flutter_icon_130599" src="https://user-images.githubusercontent.com/97805045/190900259-03669a71-b7af-420d-9aef-4c6c4f267a93.png">
+● Flutter Framework          <img width="25" alt="file_type_flutter_icon_130599" src="https://user-images.githubusercontent.com/97805045/190900259-03669a71-b7af-420d-9aef-4c6c4f267a93.png">
 
 
-Dart        <img width="20" alt="Dart-logo-icon svg" src="https://user-images.githubusercontent.com/97805045/190900514-0afc445a-696f-4b82-9f40-76694e60f5fb.png">
+● Dart        <img width="20" alt="Dart-logo-icon svg" src="https://user-images.githubusercontent.com/97805045/190900514-0afc445a-696f-4b82-9f40-76694e60f5fb.png">
 
 
 
-pub.dev/packages/get
+● pub.dev/packages/get
 
-pub.dev/packages/percent_indicator
+● pub.dev/packages/percent_indicator
 
-pub.dev/packages/custom_navigation_bar
+● pub.dev/packages/custom_navigation_bar
