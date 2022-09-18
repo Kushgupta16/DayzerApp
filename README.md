@@ -1,10 +1,12 @@
 # Dayzer App
 
 
+GDSC SRM Technical Domain Task - App - Dayzer App
+
 
 made with ❤️
 
-### By Kush Gupta
+##### By Kush Gupta
 
 
 
