@@ -58,4 +58,3 @@ The app is developed using the awesome Flutter framework developed by Google.
 
 ● pub.dev/packages/percent_indicator
 
-● pub.dev/packages/custom_navigation_bar
